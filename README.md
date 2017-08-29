@@ -1,4 +1,4 @@
-# Amarillo Even Hub Frontend
+# Amarillo Event Hub Frontend
 
 **(from: Webpack + SASS + Handlebars + Dev Server Boilerplate)**
 
