@@ -1,4 +1,6 @@
-# Amrillo Even Hub Front End (Webpack + SASS + Handlebars + Dev Server Boilerplate)
+# Amarillo Even Hub Frontend
+
+**(from: Webpack + SASS + Handlebars + Dev Server Boilerplate)**
 
 ## Getting Started
 
