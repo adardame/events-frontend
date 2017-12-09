@@ -7,12 +7,6 @@
 run:
 `npm install`
 
-The _SASS/SCSS_ code goes inside the styles directory.
-
-The _JS_ code goes inside the app directory.
-
-The _Handlebars_ files goes inside the templates directory.
-
 ## Changes in real time
 
 1. Start the _Webpack Dev Server_:
@@ -25,6 +19,16 @@ The _Handlebars_ files goes inside the templates directory.
 
 4. After you finish the development, run the next command to have all your code available and minified in your build directory:
 `npm run build`
+
+## Making Changes
+
+The _SASS/SCSS_ code goes inside the [styles directory](styles).
+
+The _JS_ code goes inside the [app directory](app).
+
+The _Handlebars_ files goes inside the [templates directory](templates).
+
+You can edit it with any editor you prefer. Just change the files and you will see the changes in your browser.
 
 ## Deployment
 
