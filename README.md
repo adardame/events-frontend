@@ -15,9 +15,9 @@ run:
 2. Go to the url:
 `http://localhost:8080/webpack-dev-server/`
 
-3. Start to code and see the magic happens.
+3. Start to code and see the magic happen.
 
-4. After you finish the development, run the next command to have all your code available and minified in your build directory:
+After you finish the development, run the build command to have all your code available and minified in your build directory:
 `npm run build`
 
 ## Making Changes
